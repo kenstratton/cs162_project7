@@ -34,6 +34,8 @@ For example, a method printing their own information would be implemented.
 [-> Application URL](https://github.com/kenstratton/cs162_project7/tree/main/vege_learning)
 
 ## What kinds of tests would be useful?
+[-> Test URL](https://github.com/kenstratton/cs162_project7/tree/main/tests)
+
 **For inheritance and polymorphism :**</br>
 ・Check inheritance relationship between a subclass and a generic class</br>
 ・-> issubclass(subclass, generic class)</br>
