@@ -27,6 +27,8 @@ Each sub exception would work at an error from one attribute of a vegetable subc
 A planned program would be quiz-formed.</br>
 Different vegetable species have a different value in the same attribute (e.g. suitable temperature).</br>
 A user answers to choice questions about this.
+Inheritance could work when sub vegetables use a common method derived from Vegetable.
+For example, a method printing their own information would be implemented.
 
 ## Implementation of a simple program
 [-> Application URL](https://github.com/kenstratton/cs162_project7/tree/main/vege_learning)
