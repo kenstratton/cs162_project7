@@ -8,6 +8,7 @@ class Vegetable(object):
     def __str__(self):
         return self.species
 
+    # Print information of class inheritance and instance attributes
     def show_info(self):
         name = self.__class__
         mro = name.mro()
