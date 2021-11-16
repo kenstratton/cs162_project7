@@ -38,10 +38,10 @@ For example, a method printing their own information would be implemented.
 
 **For inheritance and polymorphism :**</br>
 ・Check inheritance relationship between a subclass and a generic class</br>
-・-> issubclass(subclass, generic class)</br>
+・-> *issubclass(subclass, generic class)*</br>
 ・Check if instances of different subclasses return a different value in the same attribute</br>
 
 **For exceptions :**</br>
 ・Check if a custom exception is raised when unexpected input is detected.</br>
-・-> pytest.raises(Exception)</br>
+・-> *pytest.raises(Exception)*</br>
 ・Check if an error handler outputs expcetedly when a custom exception is raised
